@@ -1,4 +1,4 @@
-# HeartStri1
+# HeartStri
 
 
 # Card Game Simulator
